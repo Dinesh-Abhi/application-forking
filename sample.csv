@@ -1,0 +1,4 @@
+name,username,currentyear,password,email,section,CGPA,branch
+student1,studentuser1,1,studentuser1,student1@gmail.com,CSE-A,8.0,CSE
+student2,studentuser2,2,studentuser2,student2@gmail.com,IT-B,8.0,IT
+student3,studentuser3,3,studentuser3,student3@gmail.com,CSM-A,8.0,CSm(AI&ML)
